@@ -1,4 +1,4 @@
-. p {
+p {
   font-size: 44px;
 }
 .main {
@@ -8,4 +8,8 @@
 .main2 {
   font-size: 66px;
   background-color: rgb(130, 206, 32);
+}
+.mainmain {
+  font-size: 89px;
+  background-color: rgb(161, 240, 240);
 }
